@@ -6,7 +6,7 @@ HScan is a terminal-based tool for scanning multiple IP addresses using Nmap.
 
 ```bash
 pip install git+https://github.com/hesham-elbadry/hscan.git
-(images/1.png)
+![ 1](images/1.png)
 
 ## USAGE
 1. **Create a file with IPs**, one per line.  
@@ -22,7 +22,7 @@ pip install git+https://github.com/hesham-elbadry/hscan.git
 scanned-$IP.txt
 
 
-(images/2.png)
-(images/3.png)
-(images/4.png)
-(images/5.png)
+![ 2](images/2.png)
+![ 3](images/3.png)
+![ 4](images/4.png)
+![ 5](images/5.png)
